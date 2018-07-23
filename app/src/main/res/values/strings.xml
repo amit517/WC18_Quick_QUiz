@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">WC18 Quick Quiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/50</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Russia was the host nation of the FIFA World Cup 2018.</string>
+    <string name="question_2">The first match was held between Russia and Uruguay.</string>
+    <string name="question_3">The first scorer of this year’s tournament was Denis Cheryshev.</string>
+    <string name="question_4">The first match was held in the Luzhniki stadium.</string>
+    <string name="question_5">Russia won the first match by 5-0.</string>
+    <string name="question_6">Harry Kane scored the first hat-trick of the tournament.</string>
+    <string name="question_7">Russia was the first team to confirm a spot in the Round Of 16.</string>
+    <string name="question_8">Saudi Arabia was the first team eliminated from this world cup.</string>
+    <string name="question_9">The champion team of the 2014 world cup was eliminated from the group stage of this world cup.</string>
+    <string name="question_10">Brazil and Argentina both were eliminated from Quarter Finals.</string>
+    <string name="question_11">Croatia is the only team to earn all the 9 points from the Group Stage.</string>
+    <string name="question_12">Portugla was eliminated from the Round Of 16 against Uruguay.</string>
+    <string name="question_13">Tota 32 matches were played in this tournament.</string>
+    <string name="question_14">The tittle of the theme song for this tournament was “Live It Up”.</string>
+    <string name="question_15">The tournament was started on 13th June.</string>
+    <string name="question_16">Total 32 team participated in this world cup.</string>
+    <string name="question_17">12 stadiums covered all the matches.</string>
+    <string name="question_18">Total 177 goals were scored in this tournament.</string>
+    <string name="question_19">Harry Kane won the Golden Boot award.</string>
+    <string name="question_20">Antoine Griezmann won the Golden Ball award.</string>
+    <string name="question_21">Kylian Mbappe won the Best Young Player award.</string>
+    <string name="question_22">Hugo Lloris won the Golden Glove award.</string>
+    <string name="question_23">Croatia won the Fair Play award.</string>
+    <string name="question_24">The 32 teams were from 6 deferent confederations.</string>
+    <string name="question_25">Russia played qualifying round to play in the main Finals.</string>
+    <string name="question_26">Belgium won the third place.</string>
+    <string name="question_27">Denmark was fourth.</string>
+    <string name="question_28">There were 15 teams from the UEFA confederation.</string>
+    <string name="question_29">VAR was used in this world cup.</string>
+    <string name="question_30">Fisht Olympic stadium has the highest capacity among those 12 stadiums.</string>
+    <string name="question_31">Team base for team Russia was in Vatutinki, Moscow.</string>
+    <string name="question_32">It is the most expensive world cup in history with an estimated cost over $14.2 billion.</string>
+    <string name="question_33">There were 35,000 volunteers for this tournament.</string>
+    <string name="question_34">Free public transport services were offered for ticketholders during the World Cup.</string>
+    <string name="question_35">The opening ceremony took place on 14th June.</string>
+    <string name="question_36">Russia was in group A.</string>
+    <string name="question_37">Germany lost their first match against South Korea.</string>
+    <string name="question_38">Argentina lost their first match against Croatia.</string>
+    <string name="question_39">Brazil drew their first match against Switzerland.</string>
+    <string name="question_40">France and Croatia played the Final match.</string>
+    <string name="question_41">Croatia won the final match.</string>
+    <string name="question_42">France won their 2nd tittle this year.</string>
+    <string name="question_43">The score of the final was 4-3.</string>
+    <string name="question_44">Mbappe scored the first goal of the final match.</string>
+    <string name="question_45">Mandzukic is the first player ever to score an own goal in a world cup final match.</string>
+    <string name="question_46">Mbappe scored the last goal of the final.</string>
+    <string name="question_47">Antoine Griezmann scored a goal from a free-kick in the final.</string>
+    <string name="question_48">Tweleve own goals were scored in this tournament.</string>
+    <string name="question_49">Harry Kane scored total 6 goals in this tournament.</string>
+    <string name="question_50">Zabivaka was the mascot of this world cup.</string>
+
+</resources>
